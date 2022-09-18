@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>icon/菱形框.png</file>
+        <file>icon/10矩形.png</file>
+        <file>icon/打开文件夹.png</file>
+        <file>icon/205设置-线性.png</file>
+        <file>icon/图片.png</file>
+        <file>icon/方向-右.png</file>
+        <file>icon/方向-左.png</file>
+        <file>icon/梯形角标.png</file>
+        <file>icon/保存.png</file>
+    </qresource>
+</RCC>
